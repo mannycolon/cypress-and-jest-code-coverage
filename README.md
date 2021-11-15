@@ -1,2 +1,2 @@
-# -cypress-and-jest
-Cypress and Jest code coverage example
+# cypress-and-jest-code-coverage
+Cypress and Jest code coverage example.
